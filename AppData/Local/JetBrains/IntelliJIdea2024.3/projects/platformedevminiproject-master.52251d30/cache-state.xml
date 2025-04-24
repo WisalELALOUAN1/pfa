@@ -1,0 +1,31 @@
+<project version="4">
+  <component name="ExternalSystemProjectTracker"><![CDATA[{
+  "projectData": {
+    "MAVEN": {
+      "platformeDevMiniProject-master": {
+        "settingsTracker": {
+          "isDirty": false,
+          "settingsFiles": {
+            "C:/Users/mchab/Downloads/platformeDevMiniProject-master/platformeDevMiniProject-master/pom.xml": 3750739079,
+            "C:/Users/mchab/Downloads/platformeDevMiniProject-master/platformeDevMiniProject-master/.mvn/wrapper/maven-wrapper.properties": 48209221
+          }
+        }
+      }
+    }
+  }
+}]]></component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProcessedFilesStorage">
+    <timestamps>
+      <entry key="50d6443b43f9600483923bfc0b7d15bb" value="1740581597388" />
+      <entry key="660849f2512c3be3fc0dfd4faf7fccee" value="1740581564596" />
+      <entry key="c68744ec15c207a6b217287c5a9a6abb" value="1740581599700" />
+    </timestamps>
+  </component>
+  <component name="RestoreUpdateTree"><![CDATA[{}]]></component>
+</project>
